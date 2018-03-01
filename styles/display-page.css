@@ -6,22 +6,18 @@ main {
 
 .box {
   border: solid black 1px;
-  font-size: 0;
   display: inline-block;
+}
+
+.row-one {
+  width: 50%;
+  height: 200px;
 }
 
 .green {
-  font-size: 0;
-  display: inline-block;
   background-color: green;
-  width: 400px;
-  height: 200px;
 }
 
 .blue {
-  font-size: 0;
-  display: inline-block;
   background-color: blue;
-  width: 400px;
-  height: 200px;
 }
