@@ -1,0 +1,21 @@
+.main {
+  margin: auto;
+  font-size: 0;
+}
+
+.box {
+  border: solid black 1px;
+  display: inline-block;
+}
+
+.green {
+  background-color: green;
+  width: 400px;
+  height: 200px;
+}
+
+.blue {
+  background-color: blue;
+  width: 400px;
+  height: 200px;
+}
