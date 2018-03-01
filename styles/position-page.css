@@ -1,24 +1,24 @@
 nav {
-  height: 100px;
+  height: 60px;
+  width: 100%;
   background-color: grey;
-  position: relative;
+  display: fixed;
 }
 
 nav li {
   position: relative;
   display: inline-block;
-  left: 200px;
-  top: 40px;
+  left: 150px;
+  top: 20px;
 }
 
 .profile-pic {
-  position: fixed;
+  position: absolute;
   border-radius: 50%;
   left: 100px;
-  top: 25px;
-  bottom: 10px;
-  width: 6%;
-  height: 23%;
+  top: 20px;
+  bottom: 5px;
+  height: 50px;
   border: 1px solid black;
 }
 
