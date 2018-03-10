@@ -13,5 +13,7 @@ Use the display property (and any other required properties) to write CSS rules 
 * Next do the dotted green box with the cat and dog images. To complete this part of the challenge, you'll have to use position:relative and position:absolute, along with offsets. But that's as much of a hint as we're giving you!
 * Finally, try to implement the background image. It should scale to the width of the browser window. 
 
+## Float Property
 
+Make the flat-exercise.html page to match the premade layout using float.
 
