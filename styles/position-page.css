@@ -5,6 +5,7 @@ nav {
   display: inline-block;
   padding-left: 60px;
   padding-right: 60px;
+  position: fixed;
 }
 
 nav li {
@@ -26,6 +27,21 @@ nav li::after {
   bottom: 5px;
   height: 50px;
   border: 1px solid black;
+}
+
+main {
+  padding-top: 90px;
+  min-width: 1000px;
+}
+
+.box {
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 300px;
+  border: 10px green dotted;
+  position: relative;
 }
 
 
