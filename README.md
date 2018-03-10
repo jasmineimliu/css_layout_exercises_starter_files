@@ -12,3 +12,6 @@ Use the display property (and any other required properties) to write CSS rules 
 * To implement the dotted green box, you can use border: 10px green dotted.
 * Next do the dotted green box with the cat and dog images. To complete this part of the challenge, you'll have to use position:relative and position:absolute, along with offsets. But that's as much of a hint as we're giving you!
 * Finally, try to implement the background image. It should scale to the width of the browser window. 
+
+
+
